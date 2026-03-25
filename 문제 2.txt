@@ -1,4 +1,6 @@
 문제 2
+https://school.programmers.co.kr/learn/courses/30/lessons/181188
+
 파이썬
 def solution(targets):
     answer = 0
